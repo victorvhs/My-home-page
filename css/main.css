@@ -1,5 +1,16 @@
-i{
-  font-size: 800px;
-  color: pink;
-  width: 80px;
+h1:hover{
+color:#b0bdb9;
+}
+
+.main{
+  padding: 10px;
+}
+.sideBar{
+  border: 2px pink solid;
+  background-color: green;
+  width: auto;
+  height: auto;
+}
+.header{
+
 }
